@@ -10,3 +10,4 @@ elif int_numero_1 == 2:
     print("Você saiu do sistema!")
 else:
     print("Não encontrado.")
+    
