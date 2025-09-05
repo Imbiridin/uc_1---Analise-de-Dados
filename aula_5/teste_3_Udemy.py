@@ -13,8 +13,7 @@ try:
         print("Seu nome é normal!")
     else:
         len(nome)>7
-        print("Seu nome é muito grande!")
-        
+        print("Seu nome é muito grande!")  
         
 except:
     print("Informação inválida!")
